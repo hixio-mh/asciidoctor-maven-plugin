@@ -67,7 +67,7 @@
         <jruby.version>9.2.11.1</jruby.version>
         <maven.coveralls.plugin.version>4.3.0</maven.coveralls.plugin.version>
         <maven.jacoco.plugin.version>0.8.5</maven.jacoco.plugin.version>
-        <maven.plugin.plugin.version>3.5</maven.plugin.plugin.version>
+        <maven.plugin.plugin.version>3.6.2</maven.plugin.plugin.version>
         <maven.project.version>3.0.5</maven.project.version>
         <maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
         <maven.filtering.version>3.1.1</maven.filtering.version>
